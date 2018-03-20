@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dip"
+        android:background="#FFFFFF">
+
+        <ipayuv1.source.cfts.ipayu_v1.CircularImageView
+            android:id="@+id/userprofileimage"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:scaleType="centerCrop"
+            android:layout_gravity="center_vertical"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dip"
+            android:layout_marginRight="5dip">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Large Text"
+                    android:id="@+id/contactName"
+                    android:textSize="18dip"
+                    android:textStyle="bold"
+                    android:textColor="#303030"
+                    android:layout_gravity="center_vertical"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="5/28/2015"
+                    android:id="@+id/date"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignBottom="@+id/contactName"
+                    android:textSize="15dip"
+                    android:textColor="#8c8c8c"
+                    android:layout_gravity="center_vertical"/>
+            </RelativeLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="This is a sample message."
+                android:id="@+id/msg"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textColor="#787878"
+                android:textSize="15dip"
+                android:layout_marginRight="5dip"
+                android:layout_gravity="center_vertical"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

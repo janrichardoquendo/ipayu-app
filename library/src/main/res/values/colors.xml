@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- http://www.google.com/design/spec/style/color.html#color-ui-color-palette -->
+    <color name="material_blue_500">#5677fc</color>
+    <color name="ripple">#FFB419</color>
+    <color name="accent">#FFAC00</color>
+    <color name="accent_pressed">#B27800</color>
+</resources>

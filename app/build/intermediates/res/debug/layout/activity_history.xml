@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".History">
+
+    <ipayuv1.source.cfts.ipayu_v1.SlidingTabLayout
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#072183"/>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tabs"/>
+    <LinearLayout
+        android:id="@+id/footer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#707070"
+        android:layout_alignParentBottom="true"
+        android:padding="5dip">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="POWERED BY:"
+            android:id="@+id/textView3"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="10dip"
+            android:textColor="#fff" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CENTENNIAL FAST TECHNOLOGY SOLUTIONS INC."
+            android:id="@+id/textView4"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="12dip"
+            android:textColor="#fff" />
+    </LinearLayout>
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/michael/Desktop/IPAYU_V1/app/src/main/res/layout/activity_history.xml -->

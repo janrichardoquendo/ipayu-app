@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:color="#f4fe20" />
+    <item android:state_focused="true" android:color="#f4fe20" />
+    <item android:state_pressed="true" android:color="#f4fe20" />
+    <item android:color="#FFFFFF" />
+</selector><!-- From: file:/C:/Users/michael/Desktop/IPAYU_V1/app/src/main/res/color/selector.xml -->

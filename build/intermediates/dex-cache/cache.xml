@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="80434c45861675a57d690fba5ca31c3d55c89489">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-685dfe584725590a1216df1b844089c6f8573ea4.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-17c7a0b5235f6347a1a63d50c7b0324b044a7e58.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-dab147b7de55b2923c236c487c6a4a86a6a9ddaa.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-fef312c41b1ee360c20d92533167f8ff152be9d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Downloads\Archive (1)\IPAYU_V1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\michael\Downloads\Archive (1)\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-7d2fa1ba42a47c572524d4322d03aced770da055.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-5822435a876d32a2a7402d7e19332877438e483b.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-0dea3ab6ba61e57ff165a60d09ea285537dff56f.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-701df8862510441e03299dbbe24ea7cd9d0fa18a.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\library-2.4.0-19a84e31372fb69497cd85c93fa2b7b2132ce35e.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\michael\Downloads\Archive (1)\IPAYU_V1\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-b90ca45a55c90300cb81f4e32e0a99a26fe6daeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-e37bc66fbddbe3c69d37eec81a2e05e8c0d9c852.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-5c34c331190482490caadd59fc7fcc4ef7f22627.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-3c2d006a525ec70f62751040f5d1dd4094cb1a35.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Downloads\Archive (1)\IPAYU_V1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\michael\Downloads\Archive (1)\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-06790cda58d9b5b0e47faf50c28505666cd1795e.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-91b6891328f60ff6b84135d0343772a70f80212a.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-732a3d91e3c45b494c996b3955aa5c6d6f3689ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-0b1b01ed9a517c6bfe0c563b00af40c907f0d165.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-2045cdb2d0e9ee6f8db5808381908152015ab336.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-82e193fe8f502ea99ac0fab7ce8b12985892c627.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Downloads\Archive (1)\IPAYU_V1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\michael\Downloads\Archive (1)\IPAYU_V1\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-a780564fce002ed94c28a20162cb668e0063c2e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\IPAYU_V1\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a26f95a843f020fb5945046bf4fa9430b8ea5b9c">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-4e76740f173efae85a6250ff79c9319ddf53dae2.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-5a0f9852d07ab4bc9cfb2fa8740aa4a04143292d.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-15269245105cf746d244fd64dba0fba2bdbd00d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-dede31302374928dfaae9e691a69a0f5875ff4ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-ea549f09ae792fd0e2263a30bf6a2b33099e55cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-c2ebfb90e8d951276f5274190a9b67f45cad97ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="37bf8de5b4f9e7e93006db783b9b3168e32e38e9">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-24a18f742dcdcad775097def8c185bc640a1256d.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-9f262bc909cda3671d9b08cf1ca80eaa6ee02e8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-c918c7499321bd1094c62f5445a5ec211824e609.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-34aa5f4a28ab2cd6a92f864ffc0e2bb98d93e00b.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\michael\Desktop\IPAYU_V1\app\build\intermediates\pre-dexed\debug\classes-6252430475ff79428d1babb112e766b498cdb729.jar" />
+    </item>
+
+</items>

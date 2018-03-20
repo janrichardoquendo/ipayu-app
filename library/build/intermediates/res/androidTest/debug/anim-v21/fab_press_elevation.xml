@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_enabled="true"
+        android:state_pressed="true">
+        <set>
+            <objectAnimator
+                android:duration="@android:integer/config_shortAnimTime"
+                android:propertyName="translationZ"
+                android:valueTo="@dimen/fab_press_translation_z"
+                android:valueType="floatType"/>
+        </set>
+    </item>
+    <item>
+        <set>
+            <objectAnimator
+                android:duration="@android:integer/config_shortAnimTime"
+                android:propertyName="translationZ"
+                android:valueTo="0"
+                android:valueType="floatType"/>
+        </set>
+    </item>
+</selector><!-- From: file:/C:/Users/michael/Desktop/IPAYU_V1/library/src/main/res/anim-v21/fab_press_elevation.xml --><!-- From: file:/C:/Users/michael/Desktop/IPAYU_V1/library/build/intermediates/bundles/debug/res/anim-v21/fab_press_elevation.xml -->

@@ -1,0 +1,140 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    tools:context="source.cfts.ipayu_final.Login">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="4">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight=".85">
+            <VideoView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:id="@+id/videoView" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/loginBlue"
+            android:layout_width="wrap_content"
+            android:layout_height="0dip"
+            android:layout_weight="2.40"
+            android:background="#3947a0">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/view">
+        <LinearLayout
+            android:id="@+id/logInLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dip"
+            android:layout_marginRight="30dip"
+            android:layout_centerVertical="true"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/ipayuTxt"
+                android:src="@drawable/ipayulogo"
+                android:scaleType="centerInside"
+                android:layout_width="wrap_content"
+                android:layout_height="100dip"
+                android:layout_gravity="center_horizontal"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="40dip"
+                android:id="@+id/txtUname"
+                android:background="@drawable/loginbutton"
+                android:layout_marginTop="10dip"
+                android:textColorHint="#f4fe20"
+                android:hint="USERNAME"
+                android:lines="1"
+                android:textColor="#f4fe20" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="40dip"
+                android:id="@+id/txtPword"
+                android:layout_marginTop="10dip"
+                android:background="@drawable/loginbutton"
+                android:textColorHint="#f4fe20"
+                android:hint="PASSWORD"
+                android:lines="1"
+                android:password="true"
+                android:textColor="#f4fe20" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="40dip"
+                android:textColor="#fff"
+                android:text="LOG IN"
+                android:id="@+id/btnLogin"
+                android:background="@drawable/loginbutton"
+                android:layout_below="@+id/txtPword"
+                android:layout_marginTop="10dip"/>
+        </LinearLayout>
+            </RelativeLayout>
+            <View
+                android:id="@+id/view"
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:layout_above="@+id/layoutSignUp"
+                android:background="#6375e7"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dip"
+                android:paddingBottom="10dip"
+                android:layout_above="@+id/yellowBtm"
+                android:id="@+id/layoutSignUp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/txtSignUp"
+                    android:text="SIGN UP FOR IPAYU"
+                    android:textColor="#FFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="12dip"
+                    android:layout_weight="1"
+                    android:gravity="center_horizontal" />
+                <View
+                    android:layout_width="1dip"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/layoutSignUp"
+                    android:background="#6375e7"/>
+                <TextView
+                    android:id="@+id/txtForgot"
+                    android:text="FORGOT PASSWORD"
+                    android:textColor="#FFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="12dip"
+                    android:gravity="center"
+                    android:layout_weight="1"/>
+            </LinearLayout>
+            <View
+                android:id="@+id/yellowBtm"
+                android:layout_width="match_parent"
+                android:layout_height="10dip"
+                android:layout_alignParentBottom="true"
+                android:background="#f4fe21"/>
+        </RelativeLayout>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight=".75"
+            android:layout_below="@+id/loginBlue"
+            android:scaleType="centerCrop"
+            android:src="@drawable/login_bg">
+        </ImageView>
+    </LinearLayout>
+</RelativeLayout>

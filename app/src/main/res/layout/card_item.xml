@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="95dip"
+    android:descendantFocusability="blocksDescendants"
+    android:padding="5dip">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="95dip"
+        android:orientation="horizontal"
+        android:background="@color/bg">
+    <ImageView
+        android:layout_width="150dip"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView3"
+        android:scaleType="centerInside" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="20dip"
+            android:layout_gravity="center">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="HM"
+                android:id="@+id/txtMerchantName"
+                android:textStyle="bold"
+                android:textSize="15dip"
+                android:textColor="#c8000000" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="12345678"
+                android:textSize="13dip"
+                android:id="@+id/txtCardNumber"
+                android:textColor="#ff6b6b6b" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TAP TO SELECT"
+                android:textColor="#ff6b6b6b"
+                android:textStyle="italic"
+                android:textSize="10dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</RelativeLayout>

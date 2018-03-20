@@ -1,0 +1,142 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Reg_personal">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dip"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/linearLayout">
+
+        <TextView android:text="PERSONAL INFORMATION" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="18dip"
+            android:layout_gravity="center" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtFname"
+            android:layout_gravity="center_horizontal"
+            android:hint="First name"
+            android:layout_marginTop="20dip"
+            android:maxLines="1" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtMname"
+            android:layout_gravity="center_horizontal"
+            android:hint="Middle name"
+            android:maxLines="1" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtSname"
+            android:layout_gravity="center_horizontal"
+            android:hint="Last name"
+            android:layout_marginBottom="15dip"
+            android:maxLines="1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gender"
+            android:id="@+id/textView"
+            android:textSize="18dip"
+            android:textStyle="bold" />
+        <Spinner
+            android:id="@+id/gender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dip"/>
+        <!--<RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/textView1"
+            android:layout_marginTop="5dip" >
+            
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Male"
+                android:id="@+id/rdoMale" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Female"
+                android:id="@+id/rdoFemale" />
+        </RadioGroup>
+       <DatePicker
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/datePicker"
+            android:layout_gravity="center_horizontal"
+            android:datePickerMode="spinner"
+            android:calendarViewShown="false" />-->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Birthday"
+            android:textSize="18dip"
+            android:textStyle="bold"
+            android:layout_marginTop="10dip"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtDate"
+            android:layout_gravity="center_horizontal"
+            android:focusableInTouchMode="false"
+            android:hint="MMMM dd, yyyy"
+            android:layout_marginTop="5dip"
+            android:maxLines="1" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:text="NEXT"
+            android:id="@+id/btnNext"
+            android:layout_gravity="center"
+            android:background="@color/btnColor"
+            android:textColor="@color/btnTextColor"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/footer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#707070"
+        android:layout_alignParentBottom="true"
+        android:padding="5dip">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="POWERED BY:"
+            android:id="@+id/textView3"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="10dip"
+            android:textColor="#fff" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CENTENNIAL FAST TECHNOLOGY SOLUTIONS INC."
+            android:id="@+id/textView4"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="12dip"
+            android:textColor="#fff" />
+    </LinearLayout>
+</RelativeLayout>

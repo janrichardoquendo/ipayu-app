@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="#e9e9e9"
+    tools:context="ipayuv1.source.cfts.ipayu_v1.Fragment_graph">
+
+    <com.jjoe64.graphview.GraphView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="70dip"
+        android:id="@+id/graph"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/michael/Desktop/IPAYU_V1/app/src/main/res/layout/activity_fragment_graph.xml -->
